@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+
+    <string name="q1">There are 7 seas.</string>
+    <string name="q2">There are 10 continents.</string>
+    <string name="q3">3+12 = 19.</string>
+    <string name="q4">George Washington was the first President.</string>
+    <string name="q5">There are 52 states.</string>
+
+
+
+
+</resources>
